@@ -24,6 +24,7 @@ body {
 .li1 ul {
     display: none;
     position: absolute;
+
 }
     .li1 ul li {
         position:relative;
@@ -194,7 +195,7 @@ h1 {
 }
 .map {
     position:absolute;
-    right:700px;
+    right:46%;
     top:500px;
     height:500px;
     width:700px;
